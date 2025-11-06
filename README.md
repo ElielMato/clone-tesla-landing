@@ -30,9 +30,9 @@ A modern, responsive Tesla landing page clone built with **Astro**, featuring sl
 ```
 src/
 ├── components/           # Astro components
-│   ├── Header/          # Navigation components
+│   ├── Header/           # Navigation components
 │   │   └── LandingHeader.astro
-│   ├── Home/            # Homepage components
+│   ├── Home/             # Homepage components
 │   │   ├── HeroSection.astro
 │   │   ├── Logo.astro
 │   │   ├── Model3.astro
@@ -42,21 +42,21 @@ src/
 │   │   ├── Powerwall.astro
 │   │   ├── SolarPanels.astro
 │   │   └── SolarRoof.astro
-│   └── ModelS/          # Model S specific components
+│   └── ModelS/            # Model S specific components
 │       ├── HeaderModelS.astro
 │       ├── HeaderModelSScroll.astro
 │       └── SectionModelS.astro
-├── data/                # Data configuration
+├── data/                  # Data configuration
 │   └── menuItems.ts
-├── layouts/             # Layout components
+├── layouts/               # Layout components
 │   └── Layout.astro
-├── pages/               # Page routes
-│   ├── index.astro      # Homepage
-│   ├── models.astro     # Model S page
-│   └── modelx.astro     # Model X page
-├── types/               # TypeScript type definitions
+├── pages/                 # Page routes
+│   ├── index.astro        # Homepage
+│   ├── models.astro       # Model S page
+│   └── modelx.astro       # Model X page
+├── types/                 # TypeScript type definitions
 │   └── types.ts
-└── env.d.ts             # Environment type definitions
+└── env.d.ts               # Environment type definitions
 ```
 
 ## 🚀 Getting Started
