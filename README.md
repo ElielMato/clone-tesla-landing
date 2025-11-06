@@ -17,7 +17,7 @@ A modern, responsive Tesla landing page clone built with **Astro**, featuring sl
 - **Type Safety**: Full TypeScript implementation for robust development
 - **Component-Based Architecture**: Modular Astro components for maintainable code
 
-## �️ Tech Stack
+## 🛠️ Tech Stack
 
 | Technology       | Purpose                            | Version |
 | ---------------- | ---------------------------------- | ------- |
